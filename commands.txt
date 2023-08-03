@@ -3,3 +3,6 @@ git status
 git add
 git rm --cached
 git commit -m
+git rrstore
+git config --global user.name 
+git config --global user.email
